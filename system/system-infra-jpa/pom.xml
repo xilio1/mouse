@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <packaging>jar</packaging>
-    <artifactId>system-infra</artifactId>
-    <description>持久层 - Mybatis-Plus实现</description>
+    <artifactId>system-infra-jpa</artifactId>
+    <description>持久层 - JPA实现</description>
 
     <dependencies>
         <dependency>

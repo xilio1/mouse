@@ -16,5 +16,6 @@
         <module>system-service</module>
         <module>system-domain</module>
         <module>system-infra</module>
+        <module>system-infra-jpa</module>
     </modules>
 </project>
