@@ -16,10 +16,10 @@
             <groupId>cn.xilio.boot</groupId>
             <artifactId>system-adapter</artifactId>
         </dependency>
-        <dependency>
+    <!--    <dependency>
             <groupId>cn.xilio.boot</groupId>
             <artifactId>biz-adapter</artifactId>
-        </dependency>
+        </dependency>-->
     </dependencies>
 
     <build>

@@ -14,7 +14,7 @@
     <dependencies>
         <dependency>
             <groupId>cn.xilio.boot</groupId>
-            <artifactId>system-infra</artifactId>
+            <artifactId>system-infra-mybatisplus</artifactId>
         </dependency>
         <dependency>
             <groupId>cn.xilio.boot</groupId>
