@@ -13,7 +13,7 @@
     <artifactId>system</artifactId>
     <modules>
         <module>system-adapter</module>
-        <module>system-service</module>
+        <module>system-application</module>
         <module>system-domain</module>
         <module>system-infra-mybatisplus</module>
         <module>system-infra-jpa</module>

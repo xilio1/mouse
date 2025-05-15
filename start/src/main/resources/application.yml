@@ -5,3 +5,6 @@ spring:
     name: Mouse
   profiles:
     active: dev
+  main:
+    #减少启动时的Bean加载
+    lazy-initialization: true

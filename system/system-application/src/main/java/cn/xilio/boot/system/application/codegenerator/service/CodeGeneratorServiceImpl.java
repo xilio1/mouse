@@ -1,4 +1,4 @@
-package cn.xilio.boot.system.service.codegenerator;
+package cn.xilio.boot.system.application.codegenerator.service;
 
 import org.springframework.stereotype.Service;
 

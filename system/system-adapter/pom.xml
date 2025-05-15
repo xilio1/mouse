@@ -14,7 +14,7 @@
     <dependencies>
         <dependency>
             <groupId>cn.xilio.boot</groupId>
-            <artifactId>system-service</artifactId>
+            <artifactId>system-application</artifactId>
         </dependency>
     </dependencies>
 
